@@ -1,5 +1,5 @@
 [build]
-  publish = "solidstake/public"
+  publish = "public"
   command = "hugo"
 
 [build.environment]
