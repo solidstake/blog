@@ -1,4 +1,4 @@
-(function(){const doc=document.documentElement;const parentURL='http://localhost:1313/';function createEl(element='div'){return document.createElement(element);}
+(function(){const doc=document.documentElement;const parentURL='https://blog.solidstake.net/';function createEl(element='div'){return document.createElement(element);}
 function elem(selector){let elem=document.querySelector(selector);return elem!=false?elem:false;}
 function elems(selector,parent=document){let elems=parent.querySelectorAll(selector);return elems.length?elems:false;}
 function pushClass(el,targetClass){if(el&&typeof el=='object'&&targetClass){elClass=el.classList;elClass.contains(targetClass)?false:elClass.add(targetClass);}}
