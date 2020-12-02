@@ -43,16 +43,9 @@ ATON 安装完成后，左上角选择节点「Alaya」，再点击右上角「�
  
 
 1. 在 ATON 钱包地址收到转账后，点击 ATON 钱包底部的「委托」。
-1. 在「验证节点」中搜索框中搜索「SolidStake」，点击进入节点详情页，接着再点击底部的「委托」按钮。
-
+2. 在「验证节点」中搜索框中搜索「SolidStake」，点击进入节点详情页，接着再点击底部的「委托」按钮。
+3. 委托界面中，委托数量可以点击「全部发送」质押所有余额，最后点击「委托」按钮完成。
  
-![](https://cdn.nlark.com/yuque/0/2020/jpeg/1727258/1606634195533-415da4a9-11f6-4dab-8499-c0b7ceadf5ed.jpeg#align=left&display=inline&height=1792&margin=%5Bobject%20Object%5D&originHeight=1792&originWidth=828&size=0&status=done&style=none&width=828)
- 
- 
- 
-
-1. 委托界面中，委托数量可以点击「全部发送」质押所有余额，最后点击「委托」按钮完成。
-
----
+--- 
 
 完成质押 ATP 之后可以随时从节点赎回委托，并且领取对应的奖励。
