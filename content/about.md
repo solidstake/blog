@@ -1,17 +1,17 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About"
+date = "2018-04-09"
 image = 'street.jpg'
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+### Solidstake是一家新兴的极客加密资产服务商。业务包括POS权益验证，一级市场投资，加密资产托管和加密社区建设与咨询服务。
 
-It makes use of a variety of open source projects including:
+<hr>
 
-* [https://github.com/russross/blackfriday](https://github.com/russross/blackfriday)
-* [https://github.com/alecthomas/chroma](https://github.com/alecthomas/chroma)
-* [https://github.com/muesli/smartcrop](https://github.com/muesli/smartcrop)
-* [https://github.com/spf13/cobra](https://github.com/muesli/smartcrop)
-* [https://github.com/spf13/viper](https://github.com/muesli/smartcrop)
+1. 创始团队于2013年开始接触BTC等数字货币
+2. 核心成员来自各区块链投资机构、著名互联网企业等
+3. 曾参与过基于 substrate , tendermint 等绝大多数主流架构的开发
+4. 共识算法方面拥有较深的研究，并积极参与各个公链的生态治理
+5. 依托于技术和研究能力，我们各业务模块之间有着很强的协同性
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+我们立志成为加密货币领域的坚实基础，通过我们的技术积累和行业经验，为我们的合作伙伴带来安全，稳定的服务，并打造真正的赛博世界。
