@@ -28,7 +28,7 @@ image: 'alaya-award.png'
 
 ###  5.SolidStake&Alaya委托奖励方案及ATP委托教程
 总共瓜分650枚ATP
-[《SolidStake & Alaya委托奖励方案及ATP委托教程》](https://localhost:1313/post/solidstakealaya%E5%A7%94%E6%89%98%E5%A5%96%E5%8A%B1%E6%96%B9%E6%A1%88%E5%8F%8Aatp%E5%A7%94%E6%89%98%E6%95%99%E7%A8%8B/)
+[《SolidStake & Alaya委托奖励方案及ATP委托教程》](https://blog.solidstake.net/post/solidstakealaya%E5%A7%94%E6%89%98%E5%A5%96%E5%8A%B1%E6%96%B9%E6%A1%88%E5%8F%8Aatp%E5%A7%94%E6%89%98%E6%95%99%E7%A8%8B/)
 
 ---
 ## <center> <strong>SolidStake与Alaya活动奖励名单 空投名单 </strong></center>  
