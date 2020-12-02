@@ -3,109 +3,109 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.solidstake.net/</loc>
+    <loc>https://blog.solidstake.net/</loc>
     <lastmod>2019-08-25T00:52:59+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/post/emoji-support/</loc>
+    <loc>https://blog.solidstake.net/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/post/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.solidstake.net/tags/</loc>
+    <loc>https://blog.solidstake.net/post/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/tags/emoji/</loc>
+    <loc>https://blog.solidstake.net/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/post/creating-a-new-theme/</loc>
+    <loc>https://blog.solidstake.net/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.solidstake.net/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/about/</loc>
+    <loc>https://blog.solidstake.net/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/post/goisforlovers/</loc>
+    <loc>https://blog.solidstake.net/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.solidstake.net/categories/development/</loc>
+    <loc>https://blog.solidstake.net/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://blog.solidstake.net/tags/development/</loc>
+    <loc>https://blog.solidstake.net/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/tags/go/</loc>
+    <loc>https://blog.solidstake.net/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.solidstake.net/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/categories/golang/</loc>
+    <loc>https://blog.solidstake.net/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/tags/golang/</loc>
+    <loc>https://blog.solidstake.net/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/tags/hugo/</loc>
+    <loc>https://blog.solidstake.net/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/tags/templates/</loc>
+    <loc>https://blog.solidstake.net/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/tags/themes/</loc>
+    <loc>https://blog.solidstake.net/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.solidstake.net/post/migrate-from-jekyll/</loc>
+    <loc>https://blog.solidstake.net/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.solidstake.net/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
