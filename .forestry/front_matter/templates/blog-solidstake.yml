@@ -1,0 +1,15 @@
+---
+label: blog-solidstake
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: image
+  label: image
+pages:
+- content/post/solidstake-alaya.md
