@@ -8,6 +8,8 @@ image: 'matic.jpg'
 > The SolidStake team is known for being early pioneers at the forefront of PoS implementation & research. They provide trusted access to various passive income opportunities within the digital asset world.
 
  **SolidStake团队**以在PoS搭建和研究领域处于前沿的早期开拓者而闻名。他们为数字资产世界中的各种被动收入提供了可信赖的途径。
+ 
+
 
 
 > We are proud to be working with a team that believes so strongly about the decentralized financial system, knowing they will be behind securing our ecosystem and the growing #DeFi movement on Matic.
