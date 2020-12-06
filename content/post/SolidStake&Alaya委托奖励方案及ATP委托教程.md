@@ -19,7 +19,7 @@ image: 'alaya-5000.png'
 
 
 微信扫码填写此表单，提交已经质押的 ATON 钱包地址、委托节点详情截图，下为示例图。
-<center> <img src="https://cloud.solidstake.net/api/v3/file/get/26/SolidStake%E5%A7%94%E6%89%98%E5%A4%A7%E5%A5%96%E8%B5%9B%E7%99%BB%E8%AE%B0%E8%A1%A8_512.png?sign=z5soJ53yxF17R88JKzgjR1m4281iS3ZPY39V5ACk_Bs%3D%3A0" style="width: 300px;"> </center>
+<div style="text-align: center;"> <img src="https://cloud.solidstake.net/api/v3/file/get/26/SolidStake%E5%A7%94%E6%89%98%E5%A4%A7%E5%A5%96%E8%B5%9B%E7%99%BB%E8%AE%B0%E8%A1%A8_512.png?sign=z5soJ53yxF17R88JKzgjR1m4281iS3ZPY39V5ACk_Bs%3D%3A0" style="width: 300px;"> </div>
 ## 
 
 ## 1. 安装钱包 ATON
@@ -29,7 +29,7 @@ image: 'alaya-5000.png'
 - Android 下载：[Google Play 应用商店](https://play.google.com/store/apps/details?id=com.platon.aton) ｜ [APK 安装包](http://download.alaya.network/alaya/atonapk/0.13.4/PlatONNetwork/aton_android_v0.13.4.0.apk)
 
 ATON 安装完成后，左上角选择节点「Alaya」，再点击右上角「…」菜单中选择创建钱包或导入已有钱包。
-<center><img src="https://cloud.solidstake.net/api/v3/file/get/31/alaya-wallet-01.png?sign=4fsd_3JsYDRaomJ18PGGtr4iVciTJiqApQWMNTpANS8%3D%3A0" style="width: 375px"></center>
+<div style="text-align: center;"><img src="https://cloud.solidstake.net/api/v3/file/get/31/alaya-wallet-01.png?sign=4fsd_3JsYDRaomJ18PGGtr4iVciTJiqApQWMNTpANS8%3D%3A0" style="width: 375px"></div>
 ## 2. 注册钱包
 如果你是第一次使用 ATON 钱包，可申请新的钱包地址。步骤是：
 
@@ -37,9 +37,9 @@ ATON 安装完成后，左上角选择节点「Alaya」，再点击右上角「�
 1. 选择普通钱包，输入钱包名称（方便自己区分不同钱包）和密码，请务必牢记密码。
 1. 进行助记词的备份，完成后，意味着你成功注册了 Alaya 钱包地址（atp 开头的一串字母数字）。
 
-<center><img src="https://cloud.solidstake.net/api/v3/file/get/30/alaya-wallet-02.png?sign=lPF7CAXoRBQwlZ7R8zpDxV3FH6dxV9_3iVmrpy2yh0A%3D%3A0" style="width: 900px"></center>
+<div style="text-align: center;"><img src="https://cloud.solidstake.net/api/v3/file/get/30/alaya-wallet-02.png?sign=lPF7CAXoRBQwlZ7R8zpDxV3FH6dxV9_3iVmrpy2yh0A%3D%3A0" style="width: 900px"></div>
 ## 3. 质押 ATP
-<center><img src="https://cloud.solidstake.net/api/v3/file/get/29/alaya-wallet-03.png?sign=e_W9hG-n7PZbPfz2E4fG-3amUEafGGIriWLeqQe-W_k%3D%3A0" style="width: 375px"></center> 
+<div style="text-align: center;"><img src="https://cloud.solidstake.net/api/v3/file/get/29/alaya-wallet-03.png?sign=e_W9hG-n7PZbPfz2E4fG-3amUEafGGIriWLeqQe-W_k%3D%3A0" style="width: 375px"></div> 
  
 
 1. 在 ATON 钱包地址收到转账后，点击 ATON 钱包底部的「委托」。
