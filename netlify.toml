@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --theme=newsroom "
+  command = ""
 
 [build.environment]
   HUGO_VERSION = "0.74.3"
