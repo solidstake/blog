@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo server --disableFastRender --theme=newsroom "
+  command = "hugo  --disableFastRender --theme=newsroom "
 
 [build.environment]
   HUGO_VERSION = "0.74.3"
