@@ -1,6 +1,5 @@
 +++
 date = 2020-12-13T16:00:00Z
-draft = true
 image = "/solidstake-platon.png"
 title = "SoildStake  X  Alaya  答题活动"
 
