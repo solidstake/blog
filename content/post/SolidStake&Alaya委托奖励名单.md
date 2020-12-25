@@ -80,29 +80,29 @@ image: '12.png'
 
 ## <div style="text-align: center;"> <strong>SolidStake与Alaya委托奖励红包名单</strong></div>  
 
-<center><font size=4><strong>atp1gsxj6u*********786ckapx</strong></font></center>
-<center><font size=4><strong>atp1axmlpl*********7gcay4zs</strong></font></center>
-<center><font size=4><strong>atp1kmwks6*********cnngy8pa</strong></font></center>
-<center><font size=4><strong>atp1zhe8ze*********emp8fulx</strong></font></center>
-<center><font size=4><strong>atp1942mwh*********9s4z4lkp</strong></font></center>
+<center><font size=4><strong>atp1mwu4fj*********e4mhrlkn</strong></font></center>
+<center><font size=4><strong>atp1zx8ugl*********6axyavcf</strong></font></center>
+<center><font size=4><strong>atp10ppt8y*********ddsaqruv</strong></font></center>
+<center><font size=4><strong>atp1wrknxg*********hrhwtzq8</strong></font></center>
 <center><font size=4><strong>atp1zxwp7t*********2cz2jxyk</strong></font></center>
-<center><font size=4><strong>atp1pwpvuz*********hty9s3w5</strong></font></center>
-<center><font size=4><strong>atp14vzjl8*********zkd9lxa0</strong></font></center>
-<center><font size=4><strong>atp1w5vpx7*********vx5zf34y</strong></font></center>
+<center><font size=4><strong>atp1gwgx67*********7m324ax5</strong></font></center>
+<center><font size=4><strong>atp12cjrgt*********xywcu3kt</strong></font></center>
+<center><font size=4><strong>atp17ex3e7*********zuxgg3qd</strong></font></center>
 <center><font size=4><strong>atp19zxd90*********xr522dfg</strong></font></center>
 <center><font size=4><strong>atp1gad8wh*********s74l633v</strong></font></center>
 <center><font size=4><strong>atp19rt68k*********xwsyh3mk</strong></font></center>
-<center><font size=4><strong>atp1q279lu*********sfl7fxde</strong></font></center>
+<center><font size=4><strong>atp1c974nm*********tzvs7p93</strong></font></center>
 <center><font size=4><strong>atp1p3dkhl*********cvtnxz92</strong></font></center>
-<center><font size=4><strong>atp1hfv8kk*********p0kywg47</strong></font></center>
+<center><font size=4><strong>atp1zyz5pq*********etvc4vpk</strong></font></center>
 <center><font size=4><strong>atp1224kmc*********lk8s6rl8</strong></font></center>
-<center><font size=4><strong>atp1h3s3dm*********txf8e3f5</strong></font></center>
-<center><font size=4><strong>atp13dqed5*********42s6exd8</strong></font></center>
-<center><font size=4><strong>atp15nas8z*********4kww70gn</strong></font></center>
+<center><font size=4><strong>atp1dfasgq*********zp8nq8dd</strong></font></center>
+<center><font size=4><strong>atp1hwcsuw*********fdds749p</strong></font></center>
+<center><font size=4><strong>atp1wqelt5*********s5dyvrsp</strong></font></center>
 <center><font size=4><strong>atp1v0tnng*********k9j36e35</strong></font></center>
 <center><font size=4><strong>atp15hntal*********0y0kj5lc</strong></font></center>
-<center><font size=4><strong>atp1dulh94*********p6zs0q52</strong></font></center>
+<center><font size=4><strong>atp15lesyx*********jnjan5fw</strong></font></center>
 <center><font size=4><strong>atp1npwtsm*********zvlr0ja0</strong></font></center>
+<center><font size=4><strong>atp1w5sewq*********cj7s7kzp</strong></font></center>
 
 
 <center>请上榜的朋友主动联系我们进群抽红包**微信号：sx791441496**）</center>
